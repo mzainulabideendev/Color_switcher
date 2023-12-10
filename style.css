@@ -1,0 +1,73 @@
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+  #pink{
+background :pink;
+  }
+#brown{
+    background: brown;
+  }
+  #orange{
+    background: orange;
+  }
+  #Azure{
+    background: azure;
+  }
+  #Magenta{
+    background:magenta;
+  }
+  #purple
+   {
+    background: purple;
+  }
+  h3{
+    width: 0ch;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: text 6s steps(14) infinite alternate;
+    border-right: 3px solid black;
+
+  }
+@keyframes text {
+  
+0%{
+  width: 0ch;
+}
+50%{
+   width: 14ch;
+}
+
+}
+
+  
+
