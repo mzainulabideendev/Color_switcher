@@ -1,4 +1,5 @@
 # new 
+# Html
 # 🎨 Color Switcher
 
 A simple and interactive color switcher built using HTML, CSS, and JavaScript.
